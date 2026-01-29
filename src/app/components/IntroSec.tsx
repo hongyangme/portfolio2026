@@ -1,10 +1,10 @@
 export default function IntroSec() {
     return (
-        <section className="w-full h-150 bg-bg">
-            <div className="relative flex flex-col items-center justify-center h-full text-primary w-[60%] right-0 mr-[10%] mx-auto">
-                <h2 className="text-4xl font-bold mb-10">다양한 프로젝트 경험과 기술 역량으로
+        <section className="w-full min-h-max">
+            <div className="relative flex flex-col justify-center h-full text-primary w-[60%] right-0 mr-[10%] mx-auto py-30">
+                <h2 className="text-5xl font-bold mb-10">다양한 프로젝트 경험과 기술 역량으로
                     짜임새 있는 UI개발자가 되겠습니다.</h2>
-                <p className="text-lg whitespace-pre-line break-keep">안녕하세요! 저는 도전을 좋아하며 지속적인 성장을 추구하고 있습니다.
+                <p className="text-base w-[90%] break-all">안녕하세요! 저는 도전을 좋아하며 지속적인 성장을 추구하고 있습니다.
 
                     실무에서 웹 퍼블리싱 업무를 5년 7개월간 해왔으며 Html, CSS(SCSS), javascript, Git, Vue, Nuxt, figma, Zeplin을 사용해 마크업 작업 및 협업을 했습니다.
 

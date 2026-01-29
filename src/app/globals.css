@@ -10,6 +10,9 @@
   --color-foreground: var(--foreground);
   --font-pretendard: 'Pretendard', sans-serif;
   --font-azeret-mono: 'Azeret Mono', sans-serif;
+  --font-agencyb: 'Agencyb', sans-serif;
+  --font-walkway: 'Walkway', sans-serif;
+  --font-81: var(--font-81);
   --color-primary: #1D546C;
   --color-bg: #F5F2F2;
 }
